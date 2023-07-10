@@ -1,0 +1,45 @@
+#local {
+    
+    color:white;
+   
+    
+  }
+  .rowC{display:flex; flex-direction:row;}
+
+  
+  .navbar a {
+    margin: 32px 9px;
+    padding-top: 5px;
+    font-size: 17px;
+    width: 10%; /* For equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center; /* If you want the text to be centered */
+    
+  }
+  .navbar2 a {
+    margin: 32px 9px;
+    font-size: 17px;
+    /* For equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center; /* If you want the text to be centered */
+    
+  }
+ 
+  .navd {
+        display:block;
+  }
+
+  .vnavbar a {
+    
+  
+    font-size: 17px;
+    width: 5px; /* For equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center; /* If you want the text to be centered */
+    
+  }
+
+  
+  
+  
+
+  
+
+  
